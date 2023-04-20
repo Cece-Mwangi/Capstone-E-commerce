@@ -26,9 +26,8 @@ body {
   color: #ffffff;
   align-content: right;
 }
-#action_btn {
-   text-align:right;
-  background-color: #eb936d"
+.container {
+     background-color: #eb936d"
           border="#eb936d"
     }
   hr {
